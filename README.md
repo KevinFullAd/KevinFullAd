@@ -1,71 +1,87 @@
 <h1 align="center">
-Hola, soy Kevin
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+Hola, soy Kevin 👋
 </h1>
 
-<div align="center">
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-<a href="https://instagram.com/abdo.achhoubi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=fc3f3f&style=for-the-badge& alt=Gmail style="margin-bottom: 5px;" />
-</a> 
-<br />
-<br /> 
-  
----
+<p align="center">
+Desarrollador Full Stack con foco en Frontend Architecture, UI Systems y Backend Modular.
+</p>
 
-Soy estudiante de primer año en UTN FRA, entusiasta por la tecnologia, y en el intento de ser un gran programador. Me gusta codear, diseñar, innovar y experimentar. Soy una persona entusiasta y social que ama asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimiento y positividad.
-<br />
-
-Actualmente resido en  **Buenos aires, Argentina.**
-
-<br />
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/kevinpani" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:paniagua.kevin.damian@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/KevinFullAd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-##### Lenguajes que uso
- 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+## 💫 Sobre mí
 
-##### Algunas tecnologias que use
+🔭 Actualmente trabajando en  
+Un portfolio modular en React con animaciones refinadas, arquitectura por secciones y foco en experiencia profesional.
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=azure)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+👯 Busco colaborar en  
+Proyectos frontend donde la UX, la estructura del código y el rendimiento sean prioridad real.
 
-<br/>
- 
-<!--
-**KevinFullAd/KevinFullAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 Busco mejorar en  
+Motion avanzado, diseño de sistemas escalables y arquitectura backend limpia con NestJS.
 
-Here are some ideas to get you started:
+🌱 Aprendiendo constantemente  
+Framer Motion avanzado, patrones de composición en React y diseño modular orientado a mantenibilidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Preguntame sobre  
+Arquitectura de componentes, organización de UI, layouts consistentes y sistemas de diseño con Tailwind.
 
-----
-Credit: [KevinFullAd](https://github.com/KevinFullAd)
+⚡ Dato curioso  
+Paso más tiempo ajustando curvas de transición y espaciado que escribiendo features.
 
-Last Edited on: 10/02/2025
+---
+
+## 🧠 En qué me especializo
+
+- Arquitectura modular en React
+- Organización por secciones desacopladas
+- Sistemas de UI consistentes con Tailwind
+- Transiciones y motion bien pensadas
+- Backend estructurado con NestJS
+- Separación clara entre lógica, presentación y datos
+
+---
+
+## 💻 Tech Stack Principal
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwind-css)
+![React Router](https://img.shields.io/badge/React_Router-20232A?style=flat&logo=react-router)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-20232A?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat&logo=express)
+
+### Otros
+![Java](https://img.shields.io/badge/Java-20232A?style=flat&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring-20232A?style=flat&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat&logo=mysql)
+![Postgres](https://img.shields.io/badge/Postgres-20232A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
+
+--- 
+
+## 📍 Ubicación
+
+Buenos Aires, Argentina 🇦🇷
+
+---
+
+<p align="center">
+Construyendo código mantenible, interfaces limpias y experiencias bien pensadas.
+</p>
